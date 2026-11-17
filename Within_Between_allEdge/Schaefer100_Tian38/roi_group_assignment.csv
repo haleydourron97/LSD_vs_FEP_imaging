@@ -1,0 +1,139 @@
+ROI,AtlasLabel,GroupIndex,GroupLabel
+1,17Networks_LH_VisCent_ExStr_1,1,VIS A
+2,17Networks_LH_VisCent_ExStr_2,1,VIS A
+3,17Networks_LH_VisCent_Striate_1,1,VIS A
+4,17Networks_LH_VisCent_ExStr_3,1,VIS A
+5,17Networks_LH_VisPeri_ExStrInf_1,2,VIS B
+6,17Networks_LH_VisPeri_StriCal_1,2,VIS B
+7,17Networks_LH_VisPeri_ExStrSup_1,2,VIS B
+8,17Networks_LH_SomMotA_1,3,SMN A
+9,17Networks_LH_SomMotA_2,3,SMN A
+10,17Networks_LH_SomMotB_Aud_1,4,SMN B
+11,17Networks_LH_SomMotB_S2_1,4,SMN B
+12,17Networks_LH_SomMotB_S2_2,4,SMN B
+13,17Networks_LH_SomMotB_Cent_1,4,SMN B
+14,17Networks_LH_DorsAttnA_TempOcc_1,5,DAN A
+15,17Networks_LH_DorsAttnA_ParOcc_1,5,DAN A
+16,17Networks_LH_DorsAttnA_SPL_1,5,DAN A
+17,17Networks_LH_DorsAttnB_PostC_1,6,DAN B
+18,17Networks_LH_DorsAttnB_PostC_2,6,DAN B
+19,17Networks_LH_DorsAttnB_PostC_3,6,DAN B
+20,17Networks_LH_DorsAttnB_FEF_1,6,DAN B
+21,17Networks_LH_SalVentAttnA_ParOper_1,7,SAL A
+22,17Networks_LH_SalVentAttnA_Ins_1,7,SAL A
+23,17Networks_LH_SalVentAttnA_Ins_2,7,SAL A
+24,17Networks_LH_SalVentAttnA_ParMed_1,7,SAL A
+25,17Networks_LH_SalVentAttnA_FrMed_1,7,SAL A
+26,17Networks_LH_SalVentAttnB_PFCl_1,8,SAL B
+27,17Networks_LH_SalVentAttnB_PFCmp_1,8,SAL B
+28,17Networks_LH_LimbicB_OFC_1,9,LIM B
+29,17Networks_LH_LimbicA_TempPole_1,10,LIM A
+30,17Networks_LH_LimbicA_TempPole_2,10,LIM A
+31,17Networks_LH_ContA_IPS_1,11,FPN A
+32,17Networks_LH_ContA_PFCl_1,11,FPN A
+33,17Networks_LH_ContA_PFCl_2,11,FPN A
+34,17Networks_LH_ContB_PFClv_1,12,FPN B
+35,17Networks_LH_ContC_pCun_1,13,FPN C
+36,17Networks_LH_ContC_pCun_2,13,FPN C
+37,17Networks_LH_ContC_Cingp_1,13,FPN C
+38,17Networks_LH_DefaultA_PFCd_1,14,DN A
+39,17Networks_LH_DefaultA_pCunPCC_1,14,DN A
+40,17Networks_LH_DefaultA_PFCm_1,14,DN A
+41,17Networks_LH_DefaultB_Temp_1,15,DN B
+42,17Networks_LH_DefaultB_Temp_2,15,DN B
+43,17Networks_LH_DefaultB_IPL_1,15,DN B
+44,17Networks_LH_DefaultB_PFCd_1,15,DN B
+45,17Networks_LH_DefaultB_PFCl_1,15,DN B
+46,17Networks_LH_DefaultB_PFCv_1,15,DN B
+47,17Networks_LH_DefaultB_PFCv_2,15,DN B
+48,17Networks_LH_DefaultC_Rsp_1,16,DN C
+49,17Networks_LH_DefaultC_PHC_1,16,DN C
+50,17Networks_LH_TempPar_1,17,TPar
+51,17Networks_RH_VisCent_ExStr_1,1,VIS A
+52,17Networks_RH_VisCent_ExStr_2,1,VIS A
+53,17Networks_RH_VisCent_ExStr_3,1,VIS A
+54,17Networks_RH_VisPeri_StriCal_1,2,VIS B
+55,17Networks_RH_VisPeri_ExStrInf_1,2,VIS B
+56,17Networks_RH_VisPeri_ExStrSup_1,2,VIS B
+57,17Networks_RH_SomMotA_1,3,SMN A
+58,17Networks_RH_SomMotA_2,3,SMN A
+59,17Networks_RH_SomMotA_3,3,SMN A
+60,17Networks_RH_SomMotA_4,3,SMN A
+61,17Networks_RH_SomMotB_Aud_1,4,SMN B
+62,17Networks_RH_SomMotB_S2_1,4,SMN B
+63,17Networks_RH_SomMotB_S2_2,4,SMN B
+64,17Networks_RH_SomMotB_Cent_1,4,SMN B
+65,17Networks_RH_DorsAttnA_TempOcc_1,5,DAN A
+66,17Networks_RH_DorsAttnA_ParOcc_1,5,DAN A
+67,17Networks_RH_DorsAttnA_SPL_1,5,DAN A
+68,17Networks_RH_DorsAttnB_PostC_1,6,DAN B
+69,17Networks_RH_DorsAttnB_PostC_2,6,DAN B
+70,17Networks_RH_DorsAttnB_FEF_1,6,DAN B
+71,17Networks_RH_SalVentAttnA_ParOper_1,7,SAL A
+72,17Networks_RH_SalVentAttnA_Ins_1,7,SAL A
+73,17Networks_RH_SalVentAttnA_ParMed_1,7,SAL A
+74,17Networks_RH_SalVentAttnA_FrMed_1,7,SAL A
+75,17Networks_RH_SalVentAttnB_IPL_1,8,SAL B
+76,17Networks_RH_SalVentAttnB_PFCl_1,8,SAL B
+77,17Networks_RH_SalVentAttnB_PFCmp_1,8,SAL B
+78,17Networks_RH_LimbicB_OFC_1,9,LIM B
+79,17Networks_RH_LimbicA_TempPole_1,10,LIM A
+80,17Networks_RH_ContA_IPS_1,11,FPN A
+81,17Networks_RH_ContA_PFCl_1,11,FPN A
+82,17Networks_RH_ContA_PFCl_2,11,FPN A
+83,17Networks_RH_ContB_Temp_1,12,FPN B
+84,17Networks_RH_ContB_IPL_1,12,FPN B
+85,17Networks_RH_ContB_PFCld_1,12,FPN B
+86,17Networks_RH_ContB_PFClv_1,12,FPN B
+87,17Networks_RH_ContC_Cingp_1,13,FPN C
+88,17Networks_RH_ContC_pCun_1,13,FPN C
+89,17Networks_RH_DefaultA_IPL_1,14,DN A
+90,17Networks_RH_DefaultA_PFCd_1,14,DN A
+91,17Networks_RH_DefaultA_pCunPCC_1,14,DN A
+92,17Networks_RH_DefaultA_PFCm_1,14,DN A
+93,17Networks_RH_DefaultB_PFCd_1,15,DN B
+94,17Networks_RH_DefaultB_PFCv_1,15,DN B
+95,17Networks_RH_DefaultB_PFCv_2,15,DN B
+96,17Networks_RH_DefaultC_Rsp_1,16,DN C
+97,17Networks_RH_DefaultC_PHC_1,16,DN C
+98,17Networks_RH_TempPar_1,17,TPar
+99,17Networks_RH_TempPar_2,17,TPar
+100,17Networks_RH_TempPar_3,17,TPar
+101,aHIP-rh,18,HIP
+102,pHIP-rh,18,HIP
+103,lAMY-rh,19,AMY
+104,mAMY-rh,19,AMY
+105,NAc-shell-rh,20,NAc
+106,NAc-core-rh,20,NAc
+107,pGP-rh,21,GP
+108,aGP-rh,21,GP
+109,aPUT-rh,22,PUT
+110,pPUT-rh,22,PUT
+111,aCAU-rh,23,CAU
+112,pCAU-rh,23,CAU
+113,aHIP-lh,18,HIP
+114,pHIP-lh,18,HIP
+115,lAMY-lh,19,AMY
+116,mAMY-lh,19,AMY
+117,NAc-shell-lh,20,NAc
+118,NAc-core-lh,20,NAc
+119,pGP-lh,21,GP
+120,aGP-lh,21,GP
+121,aPUT-lh,22,PUT
+122,pPUT-lh,22,PUT
+123,aCAU-lh,23,CAU
+124,pCAU-lh,23,CAU
+125,THA-VPm-rh,24,vTHA
+126,THA-VPl-rh,24,vTHA
+127,THA-VAi-rh,24,vTHA
+128,THA-VAs-rh,24,vTHA
+129,THA-DAm-rh,25,dTHA
+130,THA-DAl-rh,25,dTHA
+131,THA-DP-rh,25,dTHA
+132,THA-VPm-lh,24,vTHA
+133,THA-VPl-lh,24,vTHA
+134,THA-VAi-lh,24,vTHA
+135,THA-VAs-lh,24,vTHA
+136,THA-DAm-lh,25,dTHA
+137,THA-DAl-lh,25,dTHA
+138,THA-DP-lh,25,dTHA

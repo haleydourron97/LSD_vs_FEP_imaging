@@ -1,0 +1,327 @@
+EdgeSetIndex,Model,Type,GroupI,GroupJ,NumEdges
+1,FullConnectome,full,0,0,9453
+2,Within-VIS A,within,1,1,21
+3,Within-VIS B,within,2,2,15
+4,Within-SMN A,within,3,3,15
+5,Within-SMN B,within,4,4,28
+6,Within-DAN A,within,5,5,15
+7,Within-DAN B,within,6,6,21
+8,Within-SAL A,within,7,7,36
+9,Within-SAL B,within,8,8,10
+10,Within-LIM B,within,9,9,1
+11,Within-LIM A,within,10,10,3
+12,Within-FPN A,within,11,11,15
+13,Within-FPN B,within,12,12,10
+14,Within-FPN C,within,13,13,10
+15,Within-DN A,within,14,14,21
+16,Within-DN B,within,15,15,45
+17,Within-DN C,within,16,16,6
+18,Within-TPar,within,17,17,6
+19,Within-HIP,within,18,18,6
+20,Within-AMY,within,19,19,6
+21,Within-NAc,within,20,20,6
+22,Within-GP,within,21,21,6
+23,Within-PUT,within,22,22,6
+24,Within-CAU,within,23,23,6
+25,Within-vTHA,within,24,24,28
+26,Within-dTHA,within,25,25,15
+27,Between-VIS A-VIS B,between,1,2,42
+28,Between-VIS A-SMN A,between,1,3,42
+29,Between-VIS A-SMN B,between,1,4,56
+30,Between-VIS A-DAN A,between,1,5,42
+31,Between-VIS A-DAN B,between,1,6,49
+32,Between-VIS A-SAL A,between,1,7,63
+33,Between-VIS A-SAL B,between,1,8,35
+34,Between-VIS A-LIM B,between,1,9,14
+35,Between-VIS A-LIM A,between,1,10,21
+36,Between-VIS A-FPN A,between,1,11,42
+37,Between-VIS A-FPN B,between,1,12,35
+38,Between-VIS A-FPN C,between,1,13,35
+39,Between-VIS A-DN A,between,1,14,49
+40,Between-VIS A-DN B,between,1,15,70
+41,Between-VIS A-DN C,between,1,16,28
+42,Between-VIS A-TPar,between,1,17,28
+43,Between-VIS A-HIP,between,1,18,28
+44,Between-VIS A-AMY,between,1,19,28
+45,Between-VIS A-NAc,between,1,20,28
+46,Between-VIS A-GP,between,1,21,28
+47,Between-VIS A-PUT,between,1,22,28
+48,Between-VIS A-CAU,between,1,23,28
+49,Between-VIS A-vTHA,between,1,24,56
+50,Between-VIS A-dTHA,between,1,25,42
+51,Between-VIS B-SMN A,between,2,3,36
+52,Between-VIS B-SMN B,between,2,4,48
+53,Between-VIS B-DAN A,between,2,5,36
+54,Between-VIS B-DAN B,between,2,6,42
+55,Between-VIS B-SAL A,between,2,7,54
+56,Between-VIS B-SAL B,between,2,8,30
+57,Between-VIS B-LIM B,between,2,9,12
+58,Between-VIS B-LIM A,between,2,10,18
+59,Between-VIS B-FPN A,between,2,11,36
+60,Between-VIS B-FPN B,between,2,12,30
+61,Between-VIS B-FPN C,between,2,13,30
+62,Between-VIS B-DN A,between,2,14,42
+63,Between-VIS B-DN B,between,2,15,60
+64,Between-VIS B-DN C,between,2,16,24
+65,Between-VIS B-TPar,between,2,17,24
+66,Between-VIS B-HIP,between,2,18,24
+67,Between-VIS B-AMY,between,2,19,24
+68,Between-VIS B-NAc,between,2,20,24
+69,Between-VIS B-GP,between,2,21,24
+70,Between-VIS B-PUT,between,2,22,24
+71,Between-VIS B-CAU,between,2,23,24
+72,Between-VIS B-vTHA,between,2,24,48
+73,Between-VIS B-dTHA,between,2,25,36
+74,Between-SMN A-SMN B,between,3,4,48
+75,Between-SMN A-DAN A,between,3,5,36
+76,Between-SMN A-DAN B,between,3,6,42
+77,Between-SMN A-SAL A,between,3,7,54
+78,Between-SMN A-SAL B,between,3,8,30
+79,Between-SMN A-LIM B,between,3,9,12
+80,Between-SMN A-LIM A,between,3,10,18
+81,Between-SMN A-FPN A,between,3,11,36
+82,Between-SMN A-FPN B,between,3,12,30
+83,Between-SMN A-FPN C,between,3,13,30
+84,Between-SMN A-DN A,between,3,14,42
+85,Between-SMN A-DN B,between,3,15,60
+86,Between-SMN A-DN C,between,3,16,24
+87,Between-SMN A-TPar,between,3,17,24
+88,Between-SMN A-HIP,between,3,18,24
+89,Between-SMN A-AMY,between,3,19,24
+90,Between-SMN A-NAc,between,3,20,24
+91,Between-SMN A-GP,between,3,21,24
+92,Between-SMN A-PUT,between,3,22,24
+93,Between-SMN A-CAU,between,3,23,24
+94,Between-SMN A-vTHA,between,3,24,48
+95,Between-SMN A-dTHA,between,3,25,36
+96,Between-SMN B-DAN A,between,4,5,48
+97,Between-SMN B-DAN B,between,4,6,56
+98,Between-SMN B-SAL A,between,4,7,72
+99,Between-SMN B-SAL B,between,4,8,40
+100,Between-SMN B-LIM B,between,4,9,16
+101,Between-SMN B-LIM A,between,4,10,24
+102,Between-SMN B-FPN A,between,4,11,48
+103,Between-SMN B-FPN B,between,4,12,40
+104,Between-SMN B-FPN C,between,4,13,40
+105,Between-SMN B-DN A,between,4,14,56
+106,Between-SMN B-DN B,between,4,15,80
+107,Between-SMN B-DN C,between,4,16,32
+108,Between-SMN B-TPar,between,4,17,32
+109,Between-SMN B-HIP,between,4,18,32
+110,Between-SMN B-AMY,between,4,19,32
+111,Between-SMN B-NAc,between,4,20,32
+112,Between-SMN B-GP,between,4,21,32
+113,Between-SMN B-PUT,between,4,22,32
+114,Between-SMN B-CAU,between,4,23,32
+115,Between-SMN B-vTHA,between,4,24,64
+116,Between-SMN B-dTHA,between,4,25,48
+117,Between-DAN A-DAN B,between,5,6,42
+118,Between-DAN A-SAL A,between,5,7,54
+119,Between-DAN A-SAL B,between,5,8,30
+120,Between-DAN A-LIM B,between,5,9,12
+121,Between-DAN A-LIM A,between,5,10,18
+122,Between-DAN A-FPN A,between,5,11,36
+123,Between-DAN A-FPN B,between,5,12,30
+124,Between-DAN A-FPN C,between,5,13,30
+125,Between-DAN A-DN A,between,5,14,42
+126,Between-DAN A-DN B,between,5,15,60
+127,Between-DAN A-DN C,between,5,16,24
+128,Between-DAN A-TPar,between,5,17,24
+129,Between-DAN A-HIP,between,5,18,24
+130,Between-DAN A-AMY,between,5,19,24
+131,Between-DAN A-NAc,between,5,20,24
+132,Between-DAN A-GP,between,5,21,24
+133,Between-DAN A-PUT,between,5,22,24
+134,Between-DAN A-CAU,between,5,23,24
+135,Between-DAN A-vTHA,between,5,24,48
+136,Between-DAN A-dTHA,between,5,25,36
+137,Between-DAN B-SAL A,between,6,7,63
+138,Between-DAN B-SAL B,between,6,8,35
+139,Between-DAN B-LIM B,between,6,9,14
+140,Between-DAN B-LIM A,between,6,10,21
+141,Between-DAN B-FPN A,between,6,11,42
+142,Between-DAN B-FPN B,between,6,12,35
+143,Between-DAN B-FPN C,between,6,13,35
+144,Between-DAN B-DN A,between,6,14,49
+145,Between-DAN B-DN B,between,6,15,70
+146,Between-DAN B-DN C,between,6,16,28
+147,Between-DAN B-TPar,between,6,17,28
+148,Between-DAN B-HIP,between,6,18,28
+149,Between-DAN B-AMY,between,6,19,28
+150,Between-DAN B-NAc,between,6,20,28
+151,Between-DAN B-GP,between,6,21,28
+152,Between-DAN B-PUT,between,6,22,28
+153,Between-DAN B-CAU,between,6,23,28
+154,Between-DAN B-vTHA,between,6,24,56
+155,Between-DAN B-dTHA,between,6,25,42
+156,Between-SAL A-SAL B,between,7,8,45
+157,Between-SAL A-LIM B,between,7,9,18
+158,Between-SAL A-LIM A,between,7,10,27
+159,Between-SAL A-FPN A,between,7,11,54
+160,Between-SAL A-FPN B,between,7,12,45
+161,Between-SAL A-FPN C,between,7,13,45
+162,Between-SAL A-DN A,between,7,14,63
+163,Between-SAL A-DN B,between,7,15,90
+164,Between-SAL A-DN C,between,7,16,36
+165,Between-SAL A-TPar,between,7,17,36
+166,Between-SAL A-HIP,between,7,18,36
+167,Between-SAL A-AMY,between,7,19,36
+168,Between-SAL A-NAc,between,7,20,36
+169,Between-SAL A-GP,between,7,21,36
+170,Between-SAL A-PUT,between,7,22,36
+171,Between-SAL A-CAU,between,7,23,36
+172,Between-SAL A-vTHA,between,7,24,72
+173,Between-SAL A-dTHA,between,7,25,54
+174,Between-SAL B-LIM B,between,8,9,10
+175,Between-SAL B-LIM A,between,8,10,15
+176,Between-SAL B-FPN A,between,8,11,30
+177,Between-SAL B-FPN B,between,8,12,25
+178,Between-SAL B-FPN C,between,8,13,25
+179,Between-SAL B-DN A,between,8,14,35
+180,Between-SAL B-DN B,between,8,15,50
+181,Between-SAL B-DN C,between,8,16,20
+182,Between-SAL B-TPar,between,8,17,20
+183,Between-SAL B-HIP,between,8,18,20
+184,Between-SAL B-AMY,between,8,19,20
+185,Between-SAL B-NAc,between,8,20,20
+186,Between-SAL B-GP,between,8,21,20
+187,Between-SAL B-PUT,between,8,22,20
+188,Between-SAL B-CAU,between,8,23,20
+189,Between-SAL B-vTHA,between,8,24,40
+190,Between-SAL B-dTHA,between,8,25,30
+191,Between-LIM B-LIM A,between,9,10,6
+192,Between-LIM B-FPN A,between,9,11,12
+193,Between-LIM B-FPN B,between,9,12,10
+194,Between-LIM B-FPN C,between,9,13,10
+195,Between-LIM B-DN A,between,9,14,14
+196,Between-LIM B-DN B,between,9,15,20
+197,Between-LIM B-DN C,between,9,16,8
+198,Between-LIM B-TPar,between,9,17,8
+199,Between-LIM B-HIP,between,9,18,8
+200,Between-LIM B-AMY,between,9,19,8
+201,Between-LIM B-NAc,between,9,20,8
+202,Between-LIM B-GP,between,9,21,8
+203,Between-LIM B-PUT,between,9,22,8
+204,Between-LIM B-CAU,between,9,23,8
+205,Between-LIM B-vTHA,between,9,24,16
+206,Between-LIM B-dTHA,between,9,25,12
+207,Between-LIM A-FPN A,between,10,11,18
+208,Between-LIM A-FPN B,between,10,12,15
+209,Between-LIM A-FPN C,between,10,13,15
+210,Between-LIM A-DN A,between,10,14,21
+211,Between-LIM A-DN B,between,10,15,30
+212,Between-LIM A-DN C,between,10,16,12
+213,Between-LIM A-TPar,between,10,17,12
+214,Between-LIM A-HIP,between,10,18,12
+215,Between-LIM A-AMY,between,10,19,12
+216,Between-LIM A-NAc,between,10,20,12
+217,Between-LIM A-GP,between,10,21,12
+218,Between-LIM A-PUT,between,10,22,12
+219,Between-LIM A-CAU,between,10,23,12
+220,Between-LIM A-vTHA,between,10,24,24
+221,Between-LIM A-dTHA,between,10,25,18
+222,Between-FPN A-FPN B,between,11,12,30
+223,Between-FPN A-FPN C,between,11,13,30
+224,Between-FPN A-DN A,between,11,14,42
+225,Between-FPN A-DN B,between,11,15,60
+226,Between-FPN A-DN C,between,11,16,24
+227,Between-FPN A-TPar,between,11,17,24
+228,Between-FPN A-HIP,between,11,18,24
+229,Between-FPN A-AMY,between,11,19,24
+230,Between-FPN A-NAc,between,11,20,24
+231,Between-FPN A-GP,between,11,21,24
+232,Between-FPN A-PUT,between,11,22,24
+233,Between-FPN A-CAU,between,11,23,24
+234,Between-FPN A-vTHA,between,11,24,48
+235,Between-FPN A-dTHA,between,11,25,36
+236,Between-FPN B-FPN C,between,12,13,25
+237,Between-FPN B-DN A,between,12,14,35
+238,Between-FPN B-DN B,between,12,15,50
+239,Between-FPN B-DN C,between,12,16,20
+240,Between-FPN B-TPar,between,12,17,20
+241,Between-FPN B-HIP,between,12,18,20
+242,Between-FPN B-AMY,between,12,19,20
+243,Between-FPN B-NAc,between,12,20,20
+244,Between-FPN B-GP,between,12,21,20
+245,Between-FPN B-PUT,between,12,22,20
+246,Between-FPN B-CAU,between,12,23,20
+247,Between-FPN B-vTHA,between,12,24,40
+248,Between-FPN B-dTHA,between,12,25,30
+249,Between-FPN C-DN A,between,13,14,35
+250,Between-FPN C-DN B,between,13,15,50
+251,Between-FPN C-DN C,between,13,16,20
+252,Between-FPN C-TPar,between,13,17,20
+253,Between-FPN C-HIP,between,13,18,20
+254,Between-FPN C-AMY,between,13,19,20
+255,Between-FPN C-NAc,between,13,20,20
+256,Between-FPN C-GP,between,13,21,20
+257,Between-FPN C-PUT,between,13,22,20
+258,Between-FPN C-CAU,between,13,23,20
+259,Between-FPN C-vTHA,between,13,24,40
+260,Between-FPN C-dTHA,between,13,25,30
+261,Between-DN A-DN B,between,14,15,70
+262,Between-DN A-DN C,between,14,16,28
+263,Between-DN A-TPar,between,14,17,28
+264,Between-DN A-HIP,between,14,18,28
+265,Between-DN A-AMY,between,14,19,28
+266,Between-DN A-NAc,between,14,20,28
+267,Between-DN A-GP,between,14,21,28
+268,Between-DN A-PUT,between,14,22,28
+269,Between-DN A-CAU,between,14,23,28
+270,Between-DN A-vTHA,between,14,24,56
+271,Between-DN A-dTHA,between,14,25,42
+272,Between-DN B-DN C,between,15,16,40
+273,Between-DN B-TPar,between,15,17,40
+274,Between-DN B-HIP,between,15,18,40
+275,Between-DN B-AMY,between,15,19,40
+276,Between-DN B-NAc,between,15,20,40
+277,Between-DN B-GP,between,15,21,40
+278,Between-DN B-PUT,between,15,22,40
+279,Between-DN B-CAU,between,15,23,40
+280,Between-DN B-vTHA,between,15,24,80
+281,Between-DN B-dTHA,between,15,25,60
+282,Between-DN C-TPar,between,16,17,16
+283,Between-DN C-HIP,between,16,18,16
+284,Between-DN C-AMY,between,16,19,16
+285,Between-DN C-NAc,between,16,20,16
+286,Between-DN C-GP,between,16,21,16
+287,Between-DN C-PUT,between,16,22,16
+288,Between-DN C-CAU,between,16,23,16
+289,Between-DN C-vTHA,between,16,24,32
+290,Between-DN C-dTHA,between,16,25,24
+291,Between-TPar-HIP,between,17,18,16
+292,Between-TPar-AMY,between,17,19,16
+293,Between-TPar-NAc,between,17,20,16
+294,Between-TPar-GP,between,17,21,16
+295,Between-TPar-PUT,between,17,22,16
+296,Between-TPar-CAU,between,17,23,16
+297,Between-TPar-vTHA,between,17,24,32
+298,Between-TPar-dTHA,between,17,25,24
+299,Between-HIP-AMY,between,18,19,16
+300,Between-HIP-NAc,between,18,20,16
+301,Between-HIP-GP,between,18,21,16
+302,Between-HIP-PUT,between,18,22,16
+303,Between-HIP-CAU,between,18,23,16
+304,Between-HIP-vTHA,between,18,24,32
+305,Between-HIP-dTHA,between,18,25,24
+306,Between-AMY-NAc,between,19,20,16
+307,Between-AMY-GP,between,19,21,16
+308,Between-AMY-PUT,between,19,22,16
+309,Between-AMY-CAU,between,19,23,16
+310,Between-AMY-vTHA,between,19,24,32
+311,Between-AMY-dTHA,between,19,25,24
+312,Between-NAc-GP,between,20,21,16
+313,Between-NAc-PUT,between,20,22,16
+314,Between-NAc-CAU,between,20,23,16
+315,Between-NAc-vTHA,between,20,24,32
+316,Between-NAc-dTHA,between,20,25,24
+317,Between-GP-PUT,between,21,22,16
+318,Between-GP-CAU,between,21,23,16
+319,Between-GP-vTHA,between,21,24,32
+320,Between-GP-dTHA,between,21,25,24
+321,Between-PUT-CAU,between,22,23,16
+322,Between-PUT-vTHA,between,22,24,32
+323,Between-PUT-dTHA,between,22,25,24
+324,Between-CAU-vTHA,between,23,24,32
+325,Between-CAU-dTHA,between,23,25,24
+326,Between-vTHA-dTHA,between,24,25,48
